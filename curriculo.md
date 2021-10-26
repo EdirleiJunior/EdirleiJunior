@@ -7,7 +7,7 @@ Unitri - Centro Universitário do Triângulo
 
 ## Experiências profissionais 
 
-*Analista de Qualidade | Algar Telecom* 
+*Analista de Qualidade | NTT DATA Services* 
 Período: desde 01/02/2021
 Atividades: Desenvolvimento de automações de testes de API(RestAssured), Mainframe, Mobile e Web utilizando metodologia BDD com o framework Selenium e linguagem Java. Análise e criação de código HTML para localização de elementos nas páginas em teste e requisições via Postman. Controle dos projetos com a utilização do Git como repositório. Modelagem de casos de testes e execução de testes no Silk Central.
 
